@@ -144,3 +144,7 @@ This interface is about pages of the hologram. So, every hologram has a page (ev
 - ``getLines()`` - Get the lines of this page.
 - ``getHologramLineByNumber(int lineNumber)`` - Get the hologramLine by line number.
 - ``getHologramLines()`` - Get all the lines. (List of WixiHologramLine)
+
+
+### Found it Useful?
+Consider giving a star! <3
