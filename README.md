@@ -104,7 +104,7 @@ public class YourHologramListener implements Listener {
 
 }
 ```
-In this listener, we get the hologram name and check it if it the hologram has the name "your-hologram-name", and after that, send a message to the player, and then hide it from the player.
+In this listener, we get the hologram name and check it if the hologram has the name "your-hologram-name", and after that, send a message to the player, and then hide it from the player.
 
 ### More Information
 There are so many other methods to use! Here is a summary of all methods (also API has java docs to get more information about the every method):
