@@ -22,22 +22,6 @@ This code uses NMS (net.minecraft.server). If you don't have it, please get it o
         <artifactId>HologramsAPI</artifactId>
         <version>LATEST_COMMIT_TAG</version>
     <dependency>
-
-    <!-- NMS (1.8.8) -->
-    <dependency>
-        <groupId>org.spigotmc</groupId>
-        <artifactId>spigot</artifactId>
-        <version>1.8.8-R0.1-SNAPSHOT</version>
-        <scope>provided</scope>
-    </dependency>
-
-    <!-- Lombok -->
-    <dependency>
-        <groupId>org.projectlombok</groupId>
-        <artifactId>lombok</artifactId>
-        <version>1.18.28</version>
-        <scope>provided</scope>
-    </dependency>
             
 </dependencies>
 ```
