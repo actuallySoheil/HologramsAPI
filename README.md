@@ -19,7 +19,7 @@ This code uses NMS (net.minecraft.server). If you don't have it, please get it o
     <!-- WixiHologramsAPI -->
     <dependency>
         <groupId>com.github.WixiDev</groupId>
-        <artifactId>WixiHologramsAPI</artifactId>
+        <artifactId>HologramsAPI</artifactId>
         <version>LATEST_COMMIT_TAG</version>
     <dependency>
 
