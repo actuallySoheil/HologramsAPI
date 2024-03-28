@@ -50,7 +50,7 @@ public boolean onCommand(CommandSender sender, Command command, String label, St
 
     val hologram = this.hologramManager.newHologram("your-hologram-name", player.getLocation(),
             "&aLine 1",
-            "&cLine 2"
+            "&cLine 2!!!"
     );
 
     return true;
