@@ -1,4 +1,4 @@
-# WixiHologramsAPI
+# HologramsAPI
 A simple and lightweight API for creating holograms for Minecraft plugins.
 
 ### How to add it to your project?
@@ -18,7 +18,7 @@ This code uses NMS (net.minecraft.server). If you don't have it, please get it o
         
     <!-- WixiHologramsAPI -->
     <dependency>
-        <groupId>com.github.WixiDev</groupId>
+        <groupId>com.github.actuallySoheil</groupId>
         <artifactId>HologramsAPI</artifactId>
         <version>LATEST_COMMIT_TAG</version>
     <dependency>
